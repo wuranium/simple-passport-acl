@@ -7,7 +7,7 @@
 
 # Nodejs Simple Passport ACL Library
 
-This is a library for basic binary authorization via PassportJS.
+This is a secure permission middleware for PassportJS.
 
 ## Install
 
