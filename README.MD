@@ -12,6 +12,15 @@ This is a secure permission middleware for PassportJS.
 $ git clone git://github.com/wuranium/simple-passport-acl.git
 $ npm install
 
+
+## Usage
+
+```js
+route.use('/', _is(n), function(req,res) {
+  ....
+});
+```
+
 ## License
 
 MIT
