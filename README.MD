@@ -11,7 +11,7 @@ This is a secure permission middleware for PassportJS.
 ```sh
 $ git clone git://github.com/wuranium/simple-passport-acl.git
 $ npm install
-
+```
 
 ## Usage
 
