@@ -3,6 +3,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/140d122182f773350d02/maintainability)](https://codeclimate.com/github/wuranium/simple-passport-acl/maintainability)
 [![Join Gitter Chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat)](https://gitter.im/madhums/simple-passport-acl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/140d122182f773350d02/test_coverage)](https://codeclimate.com/github/wuranium/simple-passport-acl/test_coverage)
+[![Dependencies](https://david-dm.org/wuranium/simple-passport-acl.svg)](https://david-dm.org/wuranium/simple-passport-acl.svg)
+
 
 # Nodejs Simple Passport ACL Library
 
