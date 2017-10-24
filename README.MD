@@ -16,8 +16,8 @@ $ npm install
 ## Usage
 
 ```js
-route.use('/', _is(n), function(req,res) {
-  ....
+route.use('/', _is(1), function(req,res) {
+  /* .... */
 });
 ```
 
